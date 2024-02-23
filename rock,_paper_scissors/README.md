@@ -40,10 +40,6 @@ import tkinter as tk
 from tkinter import messagebox
 import random
 
-# Define functions and GUI elements here
-# ...
-
-# Example: 
-# ...
+ 
 Contributing:
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or create a pull request.
